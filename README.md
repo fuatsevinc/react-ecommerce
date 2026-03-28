@@ -1,4 +1,57 @@
-# Getting Started with Create React App
+# React E-Commerce
+
+> A React-based e-commerce web application.
+
+## About
+
+React E-Commerce is a frontend e-commerce application built with React. This project was developed as a learning exercise to practice React concepts including component architecture, state management, and UI design for online shopping experiences.
+
+## Features
+
+- Product listing and browsing
+- Shopping cart functionality
+- Responsive design
+- React component-based architecture
+- Clean and modern UI
+
+## Technologies Used
+
+| Technology | Usage |
+|------------|-------|
+| JavaScript | Application logic (41.9%) |
+| HTML5 | Page structure (37.7%) |
+| CSS3 | Styling (20.4%) |
+| React | Frontend framework |
+
+## Getting Started
+
+1. Clone the repository:
+   git clone https://github.com/fuatsevinc/react-ecommerce.git
+
+2. Navigate into the project directory:
+   cd react-ecommerce
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm start
+
+5. Open http://localhost:3000 in your browser.
+
+## Available Scripts
+
+- npm start – Run in development mode
+- npm test – Launch test runner
+- npm run build – Build for production
+
+## License
+
+All rights reserved © fuatsevinc
+
+---
+
+Developed by [fuatsevinc](https://github.com/fuatsevinc)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
